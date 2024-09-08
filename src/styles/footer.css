@@ -1,0 +1,21 @@
+.footer{
+    text-align: center;
+    background-color: #f3f3f3;
+    color:black;
+    margin-top: auto;
+    margin-bottom: 0.2rem;
+    padding: 0.5rem 0;
+    width: 100%;
+}
+a{
+    color:black;
+    background-color: #f3f3f3;
+    text-decoration: none;
+    font-family: Helvetica, sans-serif;
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
+a:hover {
+    text-decoration: underline;
+  }
